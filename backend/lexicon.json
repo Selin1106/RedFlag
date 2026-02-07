@@ -1,0 +1,10 @@
+{
+  "threat": {
+    "severity": 5,
+    "keywords": ["kill", "hurt you", "beat you", "i know where you live", "i’m coming for you"]
+  },
+  "blackmail": {
+    "severity": 5,
+    "keywords": ["leak your photos", "i have screenshots", "i’ll expose you"]
+  }
+}
